@@ -2602,6 +2602,7 @@ HolyC:
   color: "#ffefaf"
   extensions:
   - ".hc"
+  - ".zc"
   tm_scope: source.hc
   ace_mode: c_cpp
   codemirror_mode: clike
